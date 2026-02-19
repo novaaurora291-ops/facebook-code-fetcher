@@ -1,0 +1,9 @@
+{
+  "version": "1.0.2",
+  "files": [
+    {
+      "name": "Fbcodefetcher.exe",
+      "replace": true
+    }
+  ]
+}
