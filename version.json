@@ -1,5 +1,5 @@
 {
   "version": "1.0.1",
   "download_url": "https://github.com/novaaurora291-ops/facebook-code-fetcher/releases/download/v1.0.1/Fbcodefetcher.exe",
-  "notes": "Improved update system and stability fixes"
+  "notes": "Updater rebuilt for reliability\nImproved download verification\nStability improvements and bug fixes"
 }
